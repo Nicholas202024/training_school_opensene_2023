@@ -1,0 +1,10 @@
+von .ipynb in .py convertieren:
+    strg + shift + P: jupyter: Export to Python Skript
+
+in tmux in das Verzeichnis von Datei wechseln
+python3 -Dateiname.py-
+
+strg + B um session zu verlassen
+tmux a um wieder in session zu kommen
+
+wenn ich output haben will, muss dieser im skript als output ausgegeben und gespeichert werden
